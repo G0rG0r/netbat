@@ -7,5 +7,5 @@
 
 <h2>Screenshots</h2>
 <h2>TCP Listener and Sending</h2>
-<img src="ListenerTCP">
-<img src="sendingTCP">
+<img src="ListenerTCP.png">
+<img src="sendingTCP.png">
